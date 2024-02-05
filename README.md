@@ -8,12 +8,12 @@ It is a small command line program developed in Java.
 
 # How to run the importer?
 1. Copy the jar somewhere and open its location in a command prompt
-2. Run the jar like so: `java -jar UltrastarScoreImporter-0.1.jar`
+2. Run the jar like so: `java -jar UltrastarScoreImporter-0.2.jar`
    
 It requires two parameters: 1. the path to the Ultrastar.db of your source game and 2. the path to the Ultrastar.db of your target game.
 
 Example
-`java -jar UltrastarScoreImporter-0.1.jar "C:\Program Files (x86)\UltraStar WorldParty" "C:\Program Files (x86)\UltraStar Deluxe"`
+`java -jar UltrastarScoreImporter-0.2.jar "C:\Program Files (x86)\UltraStar WorldParty" "C:\Program Files (x86)\UltraStar Deluxe"`
 
 # Support
 If this helped you, feel free to buy me a coffee. Thank you!
